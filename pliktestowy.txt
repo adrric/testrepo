@@ -1,3 +1,4 @@
 to jest plik testowy
 
 to jest commint z main 1
+to jest text z branch1
